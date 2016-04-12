@@ -1,4 +1,5 @@
-layout_spectrum: 0.1978723
+favicon: null
+name: Suparatpinyo
 opengraph:
   image: null
   type: null
@@ -17,7 +18,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.863985
+  saturation: 0.2085106
   brandStrength: 0.09787245583720505
   lightness: 0.193617
   brandColors:
@@ -26,15 +27,14 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.8339006
+  rhythmicContrast: 0.2829787
 typography_spectrum: 0.7169746391009539
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.1978723
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Suparatpinyo
+cta:
+  bucket: null
+  version: null
+  domain: null
