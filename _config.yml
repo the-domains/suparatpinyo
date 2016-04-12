@@ -1,0 +1,28 @@
+name: Suparatpinyo
+favicon: null
+layout_spectrum: 0.814017036696896
+typography_spectrum: 0.7169746391009539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.09787245583720505
+  lightness: 0.791075928369537
+  saturation: 0.8639850211329758
+  rhythmicContrast: 0.8339005778543651
+purpose: []
