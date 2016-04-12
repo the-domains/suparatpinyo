@@ -1,28 +1,40 @@
-name: Suparatpinyo
-favicon: null
-layout_spectrum: 0.814017036696896
-typography_spectrum: 0.7169746391009539
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.1978723
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.863985
+  brandStrength: 0.09787245583720505
+  lightness: 0.193617
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.09787245583720505
-  lightness: 0.791075928369537
-  saturation: 0.8639850211329758
-  rhythmicContrast: 0.8339005778543651
-purpose: []
+  rhythmicContrast: 0.8339006
+typography_spectrum: 0.7169746391009539
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Suparatpinyo
